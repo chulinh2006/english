@@ -1,0 +1,162 @@
+[
+    {
+        "question": "John is my best friend, and I am a friend __________.",
+        "A": "of him",
+        "B": "him",
+        "C": "his",
+        "D": "of his",
+        "answer": "of his"
+    },
+    {
+        "question": "Mary is _______ girl in our class.",
+        "A": "the prettiest",
+        "B": "prettiest",
+        "C": "prettier",
+        "D": "the prettier",
+        "answer": "the prettiest"
+    },
+    {
+        "question": "I like to play _______ guitar in my free time.",
+        "A": "an",
+        "B": "a",
+        "C": "the",
+        "D": "Ø",
+        "answer": "the"
+    },
+    {
+        "question": "The earliest bus from Ho Chi Minh City ________ in Nha Trang at 6:15 every evening.",
+        "A": "arrived",
+        "B": "is arriving",
+        "C": "arrives",
+        "D": "would arrive",
+        "answer": "arrives"
+    },
+    {
+        "question": "My younger brother ate _______ much ice cream that he had a sore throat.",
+        "A": "so",
+        "B": "too",
+        "C": "enough",
+        "D": "far",
+        "answer": "so"
+    },
+    {
+        "question": "My sister called me when I _________ dinner.",
+        "A": "cooked",
+        "B": "was cooking",
+        "C": "am cooking",
+        "D": "cook",
+        "answer": "was cooking"
+    },
+    {
+        "question": "We do not have _______ to make a big cake.",
+        "A": "powder enough",
+        "B": "enough powder",
+        "C": "many powder",
+        "D": "powder much",
+        "answer": "enough powder"
+    },
+    {
+        "question": "_______do you often talk to in your family?",
+        "A": "How",
+        "B": "When",
+        "C": "Where",
+        "D": "Who",
+        "answer": "Who"
+    },
+    {
+        "question": "I have had a new hair cut ________ yesterday.",
+        "A": "since",
+        "B": "for",
+        "C": "until",
+        "D": "ever",
+        "answer": "since"
+    },
+    {
+        "question": "My father was ________ and shouted at me.",
+        "A": "anger",
+        "B": "angered",
+        "C": "angering",
+        "D": "angry",
+        "answer": "angry"
+    },
+    {
+        "question": "If he comes here, I ________ him do it.",
+        "A": "made",
+        "B": "make",
+        "C": "will make",
+        "D": "would make",
+        "answer": "will make"
+    },
+    {
+        "question": "I really don’t know what you should do, but I think you _______ talk to your parents.",
+        "A": "must",
+        "B": "should",
+        "C": "might",
+        "D": "would ",
+        "answer": "should"
+    },
+    {
+        "question": "I am very poor. I don’t have _______ money left now.",
+        "A": "any",
+        "B": "none",
+        "C": "some",
+        "D": "no",
+        "answer": "any"
+    },
+    {
+        "question": "My family like to go _______ a picnic.",
+        "A": "for",
+        "B": "in",
+        "C": "by",
+        "D": "at",
+        "answer": "for"
+    },
+    {
+        "question": "John: I’ve two tickets for a play. I wonder if you can go with me? Mary: ___________.",
+        "A": "With pleasure. I’m crazy about plays",
+        "B": "I think so, and what’s on your mind?",
+        "C": "I see what you mean. Let me think",
+        "D": "Yes, I’m in a great hurry.",
+        "answer": "With pleasure. I’m crazy about plays"
+    },
+    {
+        "question": "Your brother has come back from the U.S, ______?",
+        "A": "isn’t he",
+        "B": "hasn’t he",
+        "C": "didn’t he",
+        "D": "doesn’t he",
+        "answer": "hasn’t he"
+    },
+    {
+        "question": "Bob ________ the package for the old man.",
+        "A": "put",
+        "B": "helped",
+        "C": "called",
+        "D": "carried",
+        "answer": "carried"
+    },
+    {
+        "question": "He couldn’t go far because he was afraid of _______ by air.",
+        "A": "to travel",
+        "B": "travelling",
+        "C": "to be travelling",
+        "D": "being to travel",
+        "answer": "travelling"
+    },
+    {
+        "question": "I can’t swim, and ________ can my sister.",
+        "A": "either",
+        "B": "too",
+        "C": "neither",
+        "D": "so",
+        "answer": "neither"
+    },
+    {
+        "question": "Peter is a successful _________. His students admire him a lot.",
+        "A": "teacher",
+        "B": "player",
+        "C": "seller",
+        "D": "singer",
+        "answer": "teacher"
+    }
+]

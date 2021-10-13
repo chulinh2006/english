@@ -1,0 +1,242 @@
+[
+    {
+        "question": "Many thousands children have accidents in their homes.",
+        "A": "thousands",
+        "B": "have",
+        "C": "in",
+        "D": "their",
+        "answer": "thousands"
+    },
+    {
+        "question": "Many children have been bad burned because they have stood too near a fire.",
+        "A": "Many",
+        "B": "bad",
+        "C": "because",
+        "D": "too",
+        "answer": "bad"
+    },
+    {
+        "question": "The moon revolves once on its axis each time it orbit the Earth.",
+        "A": "revolves",
+        "B": "on",
+        "C": "orbit",
+        "D": "the",
+        "answer": "orbit"
+    },
+    {
+        "question": "A young man jumped into the river yesterday’s morning to save a twelve-year-old boy.",
+        "A": "jumped",
+        "B": "yesterday’s",
+        "C": "a",
+        "D": "twelve-year-old",
+        "answer": "yesterday’s"
+    },
+    {
+        "question": "James McNeil Whistler was one of the first appreciating the beauty of Japanese colour prints.",
+        "A": "was",
+        "B": "appreciating",
+        "C": "of",
+        "D": "prints",
+        "answer": "appreciating"
+    },
+    {
+        "question": "This museum is on the center of the town, and a few meters from the cathedral.",
+        "A": "on",
+        "B": "the",
+        "C": "and",
+        "D": "from",
+        "answer": "on"
+    },
+    {
+        "question": "Most major manufacturing countries of Europe had toy industrial in the last century.",
+        "A": "Most",
+        "B": "manufacturing",
+        "C": "industrial",
+        "D": "last",
+        "answer": "industrial"
+    },
+    {
+        "question": "About three thousand years ago, there were no shops, and people don’t use money to buy things.",
+        "A": "About",
+        "B": "ago",
+        "C": "there",
+        "D": "don’t use",
+        "answer": "don’t use"
+    },
+    {
+        "question": "Although fire and hot water causes most accidents in their homes, many children cut themselves with knives.",
+        "A": "Although",
+        "B": "causes",
+        "C": "themselves",
+        "D": "with",
+        "answer": "causes"
+    },
+    {
+        "question": "The first paper money has been made by the Chinese, and the first banks appeared in Italy.",
+        "A": "has been made",
+        "B": "the Chinese",
+        "C": "banks",
+        "D": "in",
+        "answer": "has been made"
+    },
+    {
+        "question": "When you have a pet, it is very important that you look for it properly.",
+        "A": "When",
+        "B": "very",
+        "C": "for",
+        "D": "properly",
+        "answer": "for"
+    },
+    {
+        "question": "Among the months of November and May wind blows from the west in most parts of Indonesia.",
+        "A": "Among",
+        "B": "of",
+        "C": "wind",
+        "D": "most",
+        "answer": "Among"
+    },
+    {
+        "question": "Nathan often goes to my house, and we are very close friend.",
+        "A": "often",
+        "B": "to",
+        "C": "we",
+        "D": "friend",
+        "answer": "friend"
+    },
+    {
+        "question": "Some people prefer the dry season where they can sit outside and enjoy the cool evening.",
+        "A": "prefer",
+        "B": "where",
+        "C": "outside",
+        "D": "the",
+        "answer": "where"
+    },
+    {
+        "question": "Birds sing to give information, and their songs are its language.",
+        "A": "to give",
+        "B": "and",
+        "C": "are",
+        "D": "its",
+        "answer": "its"
+    },
+    {
+        "question": "Candidates for the Nobel prizes are judging by Swedish and Norwegian academies and institutes.",
+        "A": "for",
+        "B": "the",
+        "C": "are judging",
+        "D": "academies",
+        "answer": "are judging"
+    },
+    {
+        "question": "Of the six inner planets, Mars is the closer to the Earth.",
+        "A": "Of",
+        "B": "inner",
+        "C": "planets",
+        "D": "closer",
+        "answer": "closer"
+    },
+    {
+        "question": "Bananas widely believed to grow on trees, but this is incorrect.",
+        "A": "widely believed",
+        "B": "on",
+        "C": "but",
+        "D": "this",
+        "answer": "widely believed"
+    },
+    {
+        "question": "Road maps and picture signs guide, warn, and introduce people.",
+        "A": "Road",
+        "B": "and",
+        "C": "picture",
+        "D": "introduce",
+        "answer": "introduce"
+    },
+    {
+        "question": "Many children have to go to hospital because of they thought medicine was sweets.",
+        "A": "have",
+        "B": "hospital",
+        "C": "because",
+        "D": "was",
+        "answer": "because"
+    },
+    {
+        "question": "After the invention of the oil lamp, men used burning sticks as torches.",
+        "A": "After",
+        "B": "the",
+        "C": "used",
+        "D": "as",
+        "answer": "After"
+    },
+    {
+        "question": "I have known your father when he was very young.",
+        "A": "known",
+        "B": "your",
+        "C": "when",
+        "D": "young",
+        "answer": "when"
+    },
+    {
+        "question": "Many years ago, it was a king who was often ill and very bad-tempered.",
+        "A": "years",
+        "B": "it",
+        "C": "who",
+        "D": "bad-tempered",
+        "answer": "it"
+    },
+    {
+        "question": "I have a stomachache and headache every day, because I can’t concentrate on my studies.",
+        "A": "stomachache",
+        "B": "every day",
+        "C": "because",
+        "D": "on",
+        "answer": "because"
+    },
+    {
+        "question": "Body language transmits ideas or thoughts by certain actions, either intentionally nor unintentionally.",
+        "A": "transmits",
+        "B": "by",
+        "C": "actions",
+        "D": "nor",
+        "answer": "nor"
+    },
+    {
+        "question": "Jim went for jogging yesterday morning. He felt cold because of the strong wind and came home soon.",
+        "A": "for",
+        "B": "felt",
+        "C": "strong",
+        "D": "came",
+        "answer": "for"
+    },
+    {
+        "question": "If you want to have a pet, you can buy ones from a pet shop but you must be careful not to buy a sick animal.",
+        "A": "If",
+        "B": "have",
+        "C": "ones",
+        "D": "must",
+        "answer": "ones"
+    },
+    {
+        "question": "Jack and Dan walked altogether. Thinking Jack was a fool, Dan planned to play a trick on him.",
+        "A": "altogether",
+        "B": "Thinking",
+        "C": "was",
+        "D": "play",
+        "answer": "altogether"
+    },
+    {
+        "question": "The first society for the Prevention of Cruelty to Animals was found in England in 1821.",
+        "A": "The",
+        "B": "society",
+        "C": "found",
+        "D": "in",
+        "answer": "found"
+    },
+    {
+        "question": "After landed on the soil of Mars, Viking I performed many scientific experiments and took numerous pictures.",
+        "A": "landed",
+        "B": "of",
+        "C": "scientific",
+        "D": "took",
+        "answer": "landed"
+    }
+]
