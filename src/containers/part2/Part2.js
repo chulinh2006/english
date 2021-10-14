@@ -18,6 +18,7 @@ class Part2 extends Component {
     onclick = (text) => {
         let description = 'Bạn đã làm sai câu hỏi này, đề nghị chọn câu khác để chọn được đáp án đúng !^^'
         if (text === this.props.answer) {
+            this.props.addScore();
             this.setState({
                 text
             })

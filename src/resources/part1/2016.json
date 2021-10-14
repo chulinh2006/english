@@ -1,0 +1,162 @@
+[
+    {
+        "question": "He is__ jacket.",
+        "A": "wearing",
+        "B": "worn",
+        "C": "wore",
+        "D": "wear",
+        "answer": "wearing"
+    },
+    {
+        "question": "Would you mind____ the window?",
+        "A": "open",
+        "B": "to open",
+        "C": "opening",
+        "D": "to opening",
+        "answer": "opening"
+    },
+    {
+        "question": "A:___ you? B: Yes, please get my luggage from the car.",
+        "A": "Do I help",
+        "B": "Have I help",
+        "C": "Can I help",
+        "D": "Am i helping",
+        "answer": "Can I help"
+    },
+    {
+        "question": "We haven't heard ____ the result was",
+        "A": "what",
+        "B": "which",
+        "C": "that",
+        "D": "about",
+        "answer": "what"
+    },
+    {
+        "question": "You have been here_______",
+        "A": "is it",
+        "B": "isn't it",
+        "C": "don't you",
+        "D": "haven’t you",
+        "answer": "haven’t you"
+    },
+    {
+        "question": "They stopped_____ for her when it grew dark.",
+        "A": "looking",
+        "B": "have looked",
+        "C": "looked",
+        "D": "to be locked",
+        "answer": "looking"
+    },
+    {
+        "question": "Dick and Joan greeted_______",
+        "A": "himself",
+        "B": "herself",
+        "C": "themselves",
+        "D": "each other",
+        "answer": "each other"
+    },
+    {
+        "question": "It's very dark here. Please turn the light ______",
+        "A": "of",
+        "B": "up",
+        "C": "on",
+        "D": "in",
+        "answer": "on"
+    },
+    {
+        "question": "Betty is my friend. She is a friend of _______",
+        "A": "me",
+        "B": "my",
+        "C": "mine",
+        "D": "I",
+        "answer": "mine"
+    },
+    {
+        "question": "_______ you angry with him?",
+        "A": "Do",
+        "B": "Why",
+        "C": "Are",
+        "D": "Have",
+        "answer": "Are"
+    },
+    {
+        "question": "Please ask her___",
+        "A": "that waits",
+        "B": "wait",
+        "C": "to wait",
+        "D": "for waiting",
+        "answer": "to wait"
+    },
+    {
+        "question": "_____ you got a radio at home?",
+        "A": "Have",
+        "B": "Are",
+        "C": "Do",
+        "D": "has",
+        "answer": "Have"
+    },
+    {
+        "question": "I usually spend two hours ____ English in the evening.",
+        "A": "to be learned",
+        "B": "learning",
+        "C": "learned",
+        "D": "learn",
+        "answer": "learning"
+    },
+    {
+        "question": "She'd rather stay at home__ go shopping.",
+        "A": "of",
+        "B": "but",
+        "C": "so",
+        "D": "than",
+        "answer": "than"
+    },
+    {
+        "question": "I___ to her since last Wednesday morning.",
+        "A": "haven't talked",
+        "B": "don't talk",
+        "C": "didn't talk",
+        "D": "am not talking",
+        "answer": "haven't talked"
+    },
+    {
+        "question": "They _____in Warsaw for about ten years.",
+        "A": "live",
+        "B": "living",
+        "C": "lives",
+        "D": "have lived",
+        "answer": "have lived"
+    },
+    {
+        "question": "I will not go to Cambridge if it_____ tomorrow.",
+        "A": "rain",
+        "B": "would rain",
+        "C": "rains",
+        "D": "raining",
+        "answer": "rains"
+    },
+    {
+        "question": "When _____ you go to work yesterday?",
+        "A": "were",
+        "B": "was",
+        "C": "did",
+        "D": "have",
+        "answer": "did"
+    },
+    {
+        "question": "I _____ work in China when I graduated from university.",
+        "A": "used to",
+        "B": "mustn't",
+        "C": "use",
+        "D": "need",
+        "answer": "used to"
+    },
+    {
+        "question": "The lesson was so__ that we fell asleep easily.",
+        "A": "bored",
+        "B": "boredom",
+        "C": "boring",
+        "D": "bore",
+        "answer": "boring"
+    }
+]

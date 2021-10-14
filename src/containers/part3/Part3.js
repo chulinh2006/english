@@ -10,8 +10,16 @@ class Part3 extends Component {
     constructor() {
         super();
         this.state = {
-            text: ""
+            text: "",
+            questions: []
         }
+    }
+    componentDidMount() {
+        const { questions } = this.props;
+        const randomQuestions = questions.sort(() => Math.random() - 0.5)
+        this.setState({
+            questions: randomQuestions
+        })
     }
 
     onclick = (text) => {
@@ -30,12 +38,15 @@ class Part3 extends Component {
     }
 
     render() {
-        const { passage, questions, A, B, C, D, answer } = this.props
+        const { passage, A, B, C, D } = this.props
+        const { questions } = this.state
         const { text } = this.state
         return (
             <div style={{ display: 'flex', flexDirection: 'column', background: "#FFF", padding: 20, margin: 10 }}>
-                {passage.map(item => <Paragraph>{item}</Paragraph>)}
-                {questions.map(item => <Part1 {...item} />)}
+                <div style={{ display: 'flex', flexDirection: 'column', background: "#FFF", padding: 20, margin: 10, position: 'sticky', top: 0, zIndex: 999 }}>
+                    {passage.map(item => <Paragraph>{item}</Paragraph>)}
+                </div>
+                {questions.map(item => <Part1 addScore={this.props.addScore} {...item} />)}
 
             </div>
         )

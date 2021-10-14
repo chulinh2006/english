@@ -1,0 +1,242 @@
+[
+    {
+        "question": "f I were there, I will give you a call at once",
+        "A": "there",
+        "B": "will give",
+        "C": "a call",
+        "D": "at once",
+        "answer": "will give"
+    },
+    {
+        "question": "Jane and Peter are so nice people that they are loved by their neighbours",
+        "A": "so",
+        "B": "they ",
+        "C": "loved ",
+        "D": "by ",
+        "answer": "so"
+    },
+    {
+        "question": "We decided renting a house with a swimming pool yesterday.",
+        "A": "renting ",
+        "B": "house ",
+        "C": "a",
+        "D": "swimming pool",
+        "answer": "renting"
+    },
+    {
+        "question": "Despite John was ill, he tried to go to work on time.",
+        "A": "Despite ",
+        "B": "ill",
+        "C": "to go",
+        "D": "on ",
+        "answer": "Despite"
+    },
+    {
+        "question": "If I had enough money, I will buy a bigger house in the city.",
+        "A": "had ",
+        "B": "money",
+        "C": "buy ",
+        "D": "in ",
+        "answer": "had"
+    },
+    {
+        "question": "I had a few problems, but James gave me some good advices.",
+        "A": "a few",
+        "B": "but ",
+        "C": "gave ",
+        "D": "advices",
+        "answer": "advices"
+    },
+    {
+        "question": "She refused to being there at the time of the party because she was too busy.",
+        "A": "to being",
+        "B": "at ",
+        "C": "of ",
+        "D": "too ",
+        "answer": "to being"
+    },
+    {
+        "question": "Mary is so fond in reading comic books in the evening.",
+        "A": "so ",
+        "B": "in ",
+        "C": "books ",
+        "D": "",
+        "answer": "in"
+    },
+    {
+        "question": "He said me that he didn't mean to hurt me.",
+        "A": "said ",
+        "B": "that ",
+        "C": "he ",
+        "D": " to hurt",
+        "answer": "said"
+    },
+    {
+        "question": "I talked to the girl who dog bit the postman",
+        "A": "talked ",
+        "B": "who ",
+        "C": "bit ",
+        "D": "",
+        "answer": "who"
+    },
+    {
+        "question": "Were your parents worrying when you told them your exam results?",
+        "A": "your ",
+        "B": "worrying ",
+        "C": "told ",
+        "D": "results",
+        "answer": "worrying"
+    },
+    {
+        "question": "Maria is interested on playing badminton with her friends every morning.",
+        "A": "is ",
+        "B": "on ",
+        "C": "with ",
+        "D": "every ",
+        "answer": "on"
+    },
+    {
+        "question": "I will never forget to meeting him for the first time in my life.",
+        "A": "I will",
+        "B": "to meeting",
+        "C": "for ",
+        "D": "first ",
+        "answer": "to meeting"
+    },
+    {
+        "question": "You had better get your hair to cut at the hairdresser's.",
+        "A": "had better",
+        "B": "your ",
+        "C": "to cut",
+        "D": "hairdresser's",
+        "answer": "to cut"
+    },
+    {
+        "question": "Jack and his wife lived next to me since their son, Thomas, was born.",
+        "A": "lived ",
+        "B": "to ",
+        "C": "son",
+        "D": "was ",
+        "answer": "lived"
+    },
+    {
+        "question": "I wish becoming a teacher after leaving the university next year. ",
+        "A": "becoming ",
+        "B": "after ",
+        "C": "the ",
+        "D": "next ",
+        "answer": "becoming"
+    },
+    {
+        "question": "Honestly, Rome was much hotter than I expected.",
+        "A": "Honestly",
+        "B": "much hotter",
+        "C": "expected",
+        "D": "______",
+        "answer": "______"
+    },
+    {
+        "question": "You can tell me your secret and I didn’t tell anyone.",
+        "A": "can ",
+        "B": "your ",
+        "C": "didn’t ",
+        "D": "anyone",
+        "answer": "didn’t"
+    },
+    {
+        "question": "Of all the book I have read, I love 'Romeo and Juliet' most.",
+        "A": "Of ",
+        "B": "book ",
+        "C": "love ",
+        "D": "most",
+        "answer": "book"
+    },
+    {
+        "question": "I have the habit of going to bed on 9 p.m. every Saturday.",
+        "A": "have ",
+        "B": "of ",
+        "C": "to ",
+        "D": "on ",
+        "answer": "on"
+    },
+    {
+        "question": "Neither I nor she like to talk about politics",
+        "A": "Neither ",
+        "B": "like ",
+        "C": "talk ",
+        "D": "politics",
+        "answer": "like"
+    },
+    {
+        "question": "I used to going fishing with my dad when I was a little boy.",
+        "A": "going ",
+        "B": "with ",
+        "C": "when ",
+        "D": "a little",
+        "answer": "going"
+    },
+    {
+        "question": "The man I met yesterday told me that I were pretty.",
+        "A": "The ",
+        "B": "what did I do",
+        "C": "at ",
+        "D": "",
+        "answer": "what did I do"
+    },
+    {
+        "question": "I have got much homeworks to do tonight, so I can't come to your party",
+        "A": "I have",
+        "B": "homeworks",
+        "C": "so ",
+        "D": "can't ",
+        "answer": "homeworks"
+    },
+    {
+        "question": "It took me half an hour travelling from my house to his school.",
+        "A": "me ",
+        "B": "an ",
+        "C": "travelling ",
+        "D": "to ",
+        "answer": "travelling"
+    },
+    {
+        "question": "Some people don't go out at night because of they are frightened.",
+        "A": "don't ",
+        "B": "at night",
+        "C": "because of",
+        "D": "frightened",
+        "answer": "because of"
+    },
+    {
+        "question": "You shouldn't having a late dinner as it is not good for your health.",
+        "A": "having ",
+        "B": "late ",
+        "C": "as ",
+        "D": "for ",
+        "answer": "having"
+    },
+    {
+        "question": "Everyone are eager to welcome a new member of the family",
+        "A": "are",
+        "B": "to ",
+        "C": "new ",
+        "D": "of ",
+        "answer": "are"
+    },
+    {
+        "question": "He often goes to the concert at Saturday night to relax.",
+        "A": "goes ",
+        "B": "the ",
+        "C": "at ",
+        "D": "to relax",
+        "answer": "at"
+    },
+    {
+        "question": "She asked me what did I do yesterday at school.",
+        "A": "asked ",
+        "B": "what did I do",
+        "C": "at ",
+        "D": "",
+        "answer": "what did I do"
+    }
+]
