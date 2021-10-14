@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/containers/part2/styles.css"],"names":[],"mappings":"AAAA,kBACI,yBACJ","file":"main.1f2482ea.chunk.css","sourcesContent":[".part2 .underline {\r\n    text-decoration: underline;\r\n}"]}

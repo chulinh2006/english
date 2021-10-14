@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/containers/part2/styles.css"],"names":[],"mappings":"AAAA,kBACI,yBACJ,CAEA,MACI,gBACJ","file":"main.a6a3d5e8.chunk.css","sourcesContent":[".part2 .underline {\r\n    text-decoration: underline;\r\n}\r\n\r\n.left {\r\n    margin-left: 20px;\r\n}"]}
