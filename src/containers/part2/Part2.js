@@ -11,24 +11,35 @@ class Part2 extends Component {
     constructor() {
         super();
         this.state = {
-            text: ""
+            text: null
         }
     }
+
+    UNSAFE_componentWillReceiveProps(nextProps) {
+        if (this.props.question !== nextProps.question) {
+            this.setState({
+                text: null
+            })
+        }
+    }
+
 
     onclick = (text) => {
         let description = 'Bạn đã làm sai câu hỏi này, đề nghị chọn câu khác để chọn được đáp án đúng !^^'
         if (text === this.props.answer) {
             this.props.addScore();
-            this.setState({
-                text
-            })
+
             description = "Chúc mừng bạn đã chọn được đáp án chính xác !^^"
         }
 
-        notification.open({
-            message: 'Thông báo',
-            description
-        });
+        this.setState({
+            text
+        })
+
+        // notification.open({
+        //     message: 'Thông báo',
+        //     description
+        // });
     }
 
     render() {
@@ -47,10 +58,10 @@ class Part2 extends Component {
                 </Title>
 
                 <div style={{ marginTop: 10, display: 'flex', justifyContent: 'flex-start' }}>
-                    <Button onClick={() => this.onclick(A)} danger={text === A} type="primary">A</Button>
-                    <Button style={{ marginLeft: 10 }} onClick={() => this.onclick(B)} danger={text === B} type="primary">B</Button>
-                    <Button style={{ marginLeft: 10 }} onClick={() => this.onclick(C)} danger={text === C} type="primary">C</Button>
-                    <Button style={{ marginLeft: 10 }} onClick={() => this.onclick(D)} danger={text === D} type="primary">D</Button>
+                    <Button disabled={text && A !== answer} onClick={() => this.onclick(A)} danger={text && A === answer} type="primary">A</Button>
+                    <Button disabled={text && B !== answer} style={{ marginLeft: 10 }} onClick={() => this.onclick(B)} danger={text && B === answer} type="primary">B</Button>
+                    <Button disabled={text && C !== answer} style={{ marginLeft: 10 }} onClick={() => this.onclick(C)} danger={text && C === answer} type="primary">C</Button>
+                    <Button disabled={text && D !== answer} style={{ marginLeft: 10 }} onClick={() => this.onclick(D)} danger={text && D === answer} type="primary">D</Button>
                 </div>
 
             </div>

@@ -1,18 +1,242 @@
 [
     {
-        "question": "______",
-        "A": "______",
-        "B": "______",
-        "C": "______",
-        "D": "______",
-        "answer": "______"
+        "question": "It is difficult forgiving someone when he hurts you.",
+        "A": "It",
+        "B": "forgiving",
+        "C": "when",
+        "D": "you",
+        "answer": "forgiving"
     },
     {
-        "question": "______",
-        "A": "______",
-        "B": "______",
-        "C": "______",
-        "D": "______",
-        "answer": "______"
+        "question": "She has become president in 1979 after the elections",
+        "A": "has become",
+        "B": "president",
+        "C": "in",
+        "D": "elections",
+        "answer": "has become"
+    },
+    {
+        "question": "Mary likes chatting cooking, and to swim",
+        "A": "likes",
+        "B": "chatting",
+        "C": "cooking",
+        "D": "to swim",
+        "answer": "to swim"
+    },
+    {
+        "question": "She is one of my best friend in my life",
+        "A": "one",
+        "B": "best",
+        "C": "friend",
+        "D": "life",
+        "answer": "friend"
+    },
+    {
+        "question": "Even though the film was extremely interested, he did not watch it",
+        "A": "Even though",
+        "B": "was",
+        "C": "interested",
+        "D": "watch",
+        "answer": "interested"
+    },
+    {
+        "question": "The student should to study as hard as he can.",
+        "A": "The student",
+        "B": "to study",
+        "C": "hard",
+        "D": "he can",
+        "answer": "to study"
+    },
+    {
+        "question": "The phone rung while I was washing the dishes.",
+        "A": "phone",
+        "B": "rung",
+        "C": "washing",
+        "D": "dishes",
+        "answer": "rung"
+    },
+    {
+        "question": "The song to which we listening last night was beautiful.",
+        "A": "The song",
+        "B": "which",
+        "C": "listening",
+        "D": "was",
+        "answer": "listening"
+    },
+    {
+        "question": "She bought an wonderful present for him on his birthday last year",
+        "A": "bought",
+        "B": "an",
+        "C": "for",
+        "D": "on",
+        "answer": "an"
+    },
+    {
+        "question": "This school is only for children whose first languages is now English.",
+        "A": "This",
+        "B": "only",
+        "C": "whose",
+        "D": "languages",
+        "answer": "languages"
+    },
+    {
+        "question": "Although he was tired, but he still went to work I am happy.  I am tired.",
+        "A": "he was",
+        "B": "tired",
+        "C": "but",
+        "D": "to work",
+        "answer": "but"
+    },
+    {
+        "question": "Using bicycles in big cities is good because they are not only clean and easy to park.",
+        "A": "is",
+        "B": "because",
+        "C": "only",
+        "D": "and",
+        "answer": "and"
+    },
+    {
+        "question": "Do you get on well with the person whom lives next door?",
+        "A": "get on",
+        "B": "the person",
+        "C": "whom",
+        "D": "next door",
+        "answer": "whom"
+    },
+    {
+        "question": "It was think to have been built in the 14th century.",
+        "A": "was think",
+        "B": "been built",
+        "C": "14th",
+        "D": "century",
+        "answer": "was think"
+    },
+    {
+        "question": "That sign is too small read, isn't it?",
+        "A": "That",
+        "B": "is",
+        "C": "read",
+        "D": "it",
+        "answer": "read"
+    },
+    {
+        "question": "It took me three years finishing this project",
+        "A": "took",
+        "B": "years",
+        "C": "finishing",
+        "D": "project",
+        "answer": "finishing"
+    },
+    {
+        "question": "The last person to leave the room must to turn off the light.",
+        "A": "last person",
+        "B": "to leave",
+        "C": "must to turn",
+        "D": "the light",
+        "answer": "must to turn"
+    },
+    {
+        "question": "My close friend, which I've not met for 3 years, has just returned from India",
+        "A": "which",
+        "B": "I've",
+        "C": "for",
+        "D": "just returned",
+        "answer": "which"
+    },
+    {
+        "question": "He used to get up early on the mornings because he had to go to work on time",
+        "A": "used to",
+        "B": "get up",
+        "C": "on the mornings",
+        "D": "on time",
+        "answer": "on the mornings"
+    },
+    {
+        "question": "They working in a hospital sponsored by the government.",
+        "A": "working",
+        "B": "in",
+        "C": "sponsored",
+        "D": "by",
+        "answer": "working"
+    },
+    {
+        "question": "The weather was such hot that I couldn't get out of the house",
+        "A": "The weather",
+        "B": "such",
+        "C": "that",
+        "D": "out of",
+        "answer": "such"
+    },
+    {
+        "question": "Both Tom with Ann were late for class",
+        "A": "with",
+        "B": "were",
+        "C": "late",
+        "D": "for",
+        "answer": "with"
+    },
+    {
+        "question": "Your grandfather could speak five languages, can he?",
+        "A": "Your",
+        "B": "speak",
+        "C": "languages",
+        "D": "can he",
+        "answer": "can he"
+    },
+    {
+        "question": "She spoke in a very low voice, but I can understand what she said",
+        "A": "in a very",
+        "B": "but",
+        "C": "can",
+        "D": "she said",
+        "answer": "can"
+    },
+    {
+        "question": "Every night he go to bed at 11 p.m",
+        "A": "Every",
+        "B": "go",
+        "C": "to bed",
+        "D": "at",
+        "answer": "go"
+    },
+    {
+        "question": "Mary, who is living near my house, is too young getting married",
+        "A": "who",
+        "B": "near",
+        "C": "too",
+        "D": "getting married",
+        "answer": "getting married"
+    },
+    {
+        "question": "If the weather will be fine tomorrow, we can play tennis",
+        "A": "If",
+        "B": "will be",
+        "C": "tomorrow",
+        "D": "can",
+        "answer": "will be"
+    },
+    {
+        "question": "He learnt so hardly that lie got the highest result in the exam",
+        "A": "learnt",
+        "B": "hardly",
+        "C": "the",
+        "D": "exam",
+        "answer": "hardly"
+    },
+    {
+        "question": "He is understand my ideas better now.",
+        "A": "is understand",
+        "B": "ideas",
+        "C": "better",
+        "D": "now",
+        "answer": "is understand"
+    },
+    {
+        "question": "When he passes his driving test, he will be able go to Germany every weekend",
+        "A": "When",
+        "B": "passes",
+        "C": "able go",
+        "D": "every weekend",
+        "answer": "able go"
     }
 ]

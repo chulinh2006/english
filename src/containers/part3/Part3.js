@@ -20,7 +20,17 @@ class Part3 extends Component {
         this.setState({
             questions: randomQuestions
         })
+        window.fontSize = 18
     }
+
+    UNSAFE_componentWillReceiveProps(nextProps) {
+        if (this.props.question !== nextProps.question) {
+            this.setState({
+                text: null
+            })
+        }
+    }
+
 
     onclick = (text) => {
         let description = 'Bạn đã làm sai câu hỏi này, đề nghị chọn câu khác để chọn được đáp án đúng !^^'
@@ -43,7 +53,7 @@ class Part3 extends Component {
         const { text } = this.state
         return (
             <div style={{ display: 'flex', flexDirection: 'column', background: "#FFF", padding: 20, margin: 10 }}>
-                <div style={{ display: 'flex', flexDirection: 'column', background: "#FFF", padding: 20, margin: 10, position: 'sticky', top: 0, zIndex: 999 }}>
+                <div style={{ display: 'flex', flexDirection: 'column', background: "#FFF", padding: 20, margin: 10, position: 'sticky', top: 0, zIndex: 999, fontSize: window.fontSize }}>
                     {passage.map(item => <Paragraph>{item}</Paragraph>)}
                 </div>
                 {questions.map(item => <Part1 addScore={this.props.addScore} {...item} />)}

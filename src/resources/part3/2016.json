@@ -1,0 +1,458 @@
+[
+    {
+        "passage": [
+            "My name is Petty and this is my husband, Phil. We both work in an office in London. We have breakfast at half past seven. We don't have a big breakfast. We usually have bread, coffee and orange juice.",
+            "For lunch, we usually have salad and sandwich. That's at about 1.30.",
+            "We usually have dinner at half past seven in the evening. It is a big meal of the day and we have meat or fish with vegetables and potatoes or rice. We have orange juice. On Saturday evenings we go to a restaurant for dinner at about eight o'clock."
+        ],
+        "questions": [
+            {
+                "question": "Petty and her husband work in a(n)____",
+                "A": "office",
+                "B": "factory",
+                "C": "hospital",
+                "D": "clinic",
+                "answer": "office"
+            },
+            {
+                "question": "What do they usually have for breakfast?",
+                "A": "soup",
+                "B": "butter",
+                "C": "bread",
+                "D": "fish",
+                "answer": "bread"
+            },
+            {
+                "question": "What do they have for lunch?",
+                "A": "soup and fish",
+                "B": "salad and soup",
+                "C": "salad and sandwich",
+                "D": "sandwich and fish",
+                "answer": "salad and sandwich"
+            },
+            {
+                "question": "What time do they usually have dinner?",
+                "A": "6.30",
+                "B": "7.15",
+                "C": "7.30",
+                "D": "8.00",
+                "answer": "7.30"
+            },
+            {
+                "question": "What do they drink for dinner?",
+                "A": "iced tea",
+                "B": "orange juice",
+                "C": "iced coffee",
+                "D": "soda",
+                "answer": "orange juice"
+            },
+            {
+                "question": "What do they usually have for dinner?",
+                "A": "beef",
+                "B": "meal",
+                "C": "potatoes",
+                "D": "chips",
+                "answer": "potatoes"
+            },
+            {
+                "question": "Where do they have dinner on Saturday evenings?",
+                "A": "at a hotel",
+                "B": "at home",
+                "C": "at their friend's house",
+                "D": "at a restaurant",
+                "answer": "at a restaurant"
+            },
+            {
+                "question": "Petty is talking about her __",
+                "A": "everyday life",
+                "B": "work",
+                "C": "husband",
+                "D": "job",
+                "answer": "everyday life"
+            }
+        ]
+    },
+    {
+        "passage": [
+            "One morning Nasreddin left his house with six donkeys to go to the market. After a time, he got tired and got on to one of them. He counted the donkeys, and there were only five, so he got off and went to look for the sixth. He looked and looked but did not find it, he went back to the donkeys and counted them again. This time there were six, so he got on to one of them again and they all started",
+            "After a few minutes he counted the donkeys again, and again there were only five! While he was counting again a friend of his passed, and Nasreddin said to him, I left my house with six donkeys; then had five; then I had six again, and now I have only five! Look! One, two, three, four, five.",
+            "'But, Nasreddin,' said his friend, 'You are sitting on a donkey too! That is the sixth! And you are the seventh!'"
+        ],
+        "questions": [
+            {
+                "question": "What did Nasreddin do one morning?",
+                "A": "He went to the shop.",
+                "B": "He went to his mother's house.",
+                "C": "He went to the market.",
+                "D": "He went to his friend's house.",
+                "answer": "He went to the market."
+            },
+            {
+                "question": "How many donkeys did he have with him?",
+                "A": "four",
+                "B": "five",
+                "C": "six",
+                "D": "seven",
+                "answer": "six "
+            },
+            {
+                "question": "What did he do when he got tired?",
+                "A": "He sold the donkeys",
+                "B": "He sold one of the donkeys.",
+                "C": "He stopped to have a rest.",
+                "D": "He sat on one of the donkeys",
+                "answer": "He sat on one of the donkeys"
+            },
+            {
+                "question": "How many donkeys did he count when he was sitting on the donkey?",
+                "A": "four",
+                "B": "five",
+                "C": "six",
+                "D": "seven",
+                "answer": "five"
+            },
+            {
+                "question": "What did his friend say to Nasreddin?",
+                "A": "His friend said Nasreddin had seven donkeys",
+                "B": "His friend said Nasreddin had five donkeys",
+                "C": "His friend said Nasreddin had one donkey",
+                "D": "His friend said Nasreddin was the seventh donkey",
+                "answer": "His friend said Nasreddin was the seventh donkey"
+            }
+        ]
+    },
+    {
+        "passage": [
+            "I was born in Newcastle, a city in the North East of England, Newcastle is on the bank of the River Tyne. It is quite big, with a population of about 200,000 people. There is a cathedral and a university. There are five bridges over the River Tyne, which links Newcastle to the next town, Gateshead, where there is one of the biggest shopping centres in the world. A few years ago, the main industries were shipbuilding and coal mining, but now the chemical and soap industries are important. I moved to London ten years ago but I often return to Newcastle. I miss the people, who are very friendly, and I miss the beautiful countryside near the city, where there are so many hills and streams."
+        ],
+        "questions": [
+            {
+                "question": "Newcastle is_____",
+                "A": "a city near the North East of England",
+                "B": "a city in the North of England",
+                "C": "a city in the North East of England",
+                "D": "a small town in England",
+                "answer": "a city in the North East of England"
+            },
+            {
+                "question": "The population of Newcastle is________",
+                "A": "200,000 people",
+                "B": "fewer than 200,000 people",
+                "C": "more than 200,000 people",
+                "D": "about 200,000 people",
+                "answer": "about 200,000 people"
+            },
+            {
+                "question": "How many bridges are there over the River Tyne?",
+                "A": "two",
+                "B": "three",
+                "C": "four",
+                "D": "five",
+                "answer": "five"
+            },
+            {
+                "question": "Gateshead has one of_____ in the world.",
+                "A": "the largest rivers",
+                "B": "the most important shipbuilding industries",
+                "C": "the biggest shopping centres",
+                "D": "the most beautiful countryside",
+                "answer": "the biggest shopping centres"
+            },
+            {
+                "question": "According to the passage, the writer______",
+                "A": "is still living in Newcastle",
+                "B": "has never returned to Newcastle",
+                "C": "doesn't live in Newcastle anymore!",
+                "D": "has come back to live in Newcastle",
+                "answer": "doesn't live in Newcastle anymore!"
+            },
+            {
+                "question": "What is one of the most important industries in Newcastle now?",
+                "A": "shipbuilding",
+                "B": "coal mining",
+                "C": "chemical industry",
+                "D": "tourism",
+                "answer": "chemical industry"
+            },
+            {
+                "question": "Which of the following is NOT true about Newcastle?",
+                "A": "It is next to Gateshead.",
+                "B": "Its main industry now is shipbuilding",
+                "C": "It has a cathedral and a university",
+                "D": "Its people are friendly",
+                "answer": "Its main industry now is shipbuilding"
+            },
+            {
+                "question": "What does the author miss about Newcastle?",
+                "A": "the university",
+                "B": "the cathedral",
+                "C": "the shopping centres",
+                "D": "the countryside",
+                "answer": "the countryside"
+            },
+            {
+                "question": "What is the best title for this passage?",
+                "A": "Newcastle - My hometown",
+                "B": "Gateshead",
+                "C": "River Tyne",
+                "D": "London city",
+                "answer": "Newcastle - My hometown"
+            }
+        ]
+    },
+    {
+        "passage": [
+            "Joshua is a ten-year-old boy. His mother is named Anna. His father is name John. His sister is named Lisa. Lisa is eight years old.",
+            "The family is on vacation at the beach. Everyone is happy. Joshuais happy because he is playing in the water. Lisa is happy because she is playing in the sand. John and Anna are happy because they are relaxing on the beach. Joshuaand Lis are wearing their swimsuits and goggles. John is wearing sunglasses and an orange T-shirt. Anna is wearing a sun dress and a large hat. She does not want the sun to get in her eyes.",
+            "'We are hungry,' the children say, 'Is there any food to eat?' 'Yes,' says Anna. 'We have sandwiches, oranges, and cookies.'",
+            "'Yay!' the children say. They wait for their mother to get the food. Anna gets the food out of her bag. She gives it to the children.",
+            "'Mom, I am thirsty,' says Lisa. 'Okay, do not worry. We have apple juice for you to drink,' says Anna 'Thanks,' says Lisa. She drinks the apple juice and smiles.",
+            "The children finish eating lunch and start playing again. John looks at Annu and smiles."
+        ],
+        "questions": [
+            {
+                "question": "When you 'play' (line 4), you do something___________",
+                "A": "for free",
+                "B": "for money",
+                "C": "because you have to",
+                "D": "for fun",
+                "answer": "for fun"
+            },
+            {
+                "question": "When you 'relax' (line 5), you_____",
+                "A": "exercise",
+                "B": "work",
+                "C": "rest",
+                "D": "jump",
+                "answer": "rest"
+            },
+            {
+                "question": "If I am 'wearing' (line 6) something, it is_______",
+                "A": "on my body",
+                "B": "on my bed",
+                "C": "in my room",
+                "D": "in my mind",
+                "answer": "on my body"
+            },
+            {
+                "question": "If I am 'hungry' (line 9), I want something to_______",
+                "A": "eat",
+                "B": "drink",
+                "C": "think",
+                "D": "play",
+                "answer": "eat"
+            },
+            {
+                "question": "If I am “thirsty” (line 13), I want something to _______",
+                "A": "eat",
+                "B": "drink",
+                "C": "think",
+                "D": "play",
+                "answer": "drink"
+            },
+            {
+                "question": "What is Joshua doing in the water?",
+                "A": "Swimming",
+                "B": "Diving",
+                "C": "Playing",
+                "D": "Surfing",
+                "answer": "Playing"
+            },
+            {
+                "question": "What color is John's T-shirt?",
+                "A": "Yellow",
+                "B": "Blue",
+                "C": "Green",
+                "D": "Orange",
+                "answer": "Orange"
+            },
+            {
+                "question": "What does Ann not want?",
+                "A": "The sunlight to get in her eyes",
+                "B": "Sunbathing in the sun",
+                "C": "Sunset in the afternoon",
+                "D": "Sunrise in the morning",
+                "answer": "The sunlight to get in her eyes"
+            },
+            {
+                "question": "What are John and Anna doing on the bench?",
+                "A": "Reading",
+                "B": "Playing the guitar",
+                "C": "Playing in the sand",
+                "D": "Relaxing",
+                "answer": "Relaxing"
+            },
+            {
+                "question": "What food is not in the bag?",
+                "A": "Sandwiches",
+                "B": "Oranges",
+                "C": "Apples",
+                "D": "Cookies",
+                "answer": "Apples"
+            },
+            {
+                "question": "What do the children do after asking about the food?",
+                "A": "They wait for John to get the food.",
+                "B": "They wait for their mother to get the food",
+                "C": "They feel full",
+                "D": "They feel tired",
+                "answer": "They wait for their mother to get the food"
+            },
+            {
+                "question": "What kind of juice does Lisa drink",
+                "A": "Apple",
+                "B": "Orange",
+                "C": "Peach",
+                "D": "Grape",
+                "answer": "Apple"
+            },
+            {
+                "question": "The best title for this passage is_______",
+                "A": "Family Vacation at the Beach",
+                "B": "Family Together",
+                "C": "Members of Family",
+                "D": "Family on the Lake",
+                "answer": "Family Vacation at the Beach"
+            }
+        ]
+    },
+    {
+        "passage": [
+            "It was two weeks before Christmas, and Mrs. Smith was very busy. She bought a lot of Christmas cards to send to her friends and to her husband's friends, and put them on the table in the living-room. Then, when her husband came home from work, she said to him, 'Here are the Christmas cards for our friends, and here are some stamps, a pen and our book of addresses. Will you please write the cards while I am cooking the dinner?'",
+            "Mr. Smith did not say anything, but walked out of the living-room and went to his study. Mrs. Smith was very angry with him, but did not say anything either.",
+            "Then a minute later he came back with a box full of Christmas cards. All of them had addresses and stamps on them.",
+            "'These are from last year,'' he said, 'I forgot to post them.'"
+        ],
+        "questions": [
+            {
+                "question": "When was Mrs. Smith very busy?",
+                "A": "at work",
+                "B": "two weeks before Christmas",
+                "C": "on Christmas night",
+                "D": "after Christmas",
+                "answer": "two weeks before Christmas"
+            },
+            {
+                "question": "Who did she buy the cards for?",
+                "A": "Her husband",
+                "B": "Her friends",
+                "C": "Her husband's friends",
+                "D": "Friends of hers and her husband's",
+                "answer": "Friends of hers and her husband's"
+            },
+            {
+                "question": "What did she want her husband to do?",
+                "A": "To sell the cards",
+                "B": "To write the cards",
+                "C": "To put the cards away",
+                "D": "To burn the cards",
+                "answer": "To write the cards"
+            },
+            {
+                "question": "What did Mrs. Smith feel when her husband went to his study?",
+                "A": "nervous",
+                "B": "angry",
+                "C": "happy",
+                "D": "tired",
+                "answer": "angry"
+            },
+            {
+                "question": "Why didn't Mr. Smith write the cards?",
+                "A": "He didn't like it",
+                "B": "He did not have a pen.",
+                "C": "He had the Christmas cards from last year.",
+                "D": "His wife did it for him",
+                "answer": "He had the Christmas cards from last year."
+            },
+            {
+                "question": "Why did he still have the cards from last year?",
+                "A": "He forgot to post them",
+                "B": "He left them at his friend's house",
+                "C": "He didn't want to give them away",
+                "D": "He didn't have enough money to buy new cards",
+                "answer": "He forgot to post them"
+            },
+            {
+                "question": "What can be said about Mr. Smith?",
+                "A": "He is a rich person",
+                "B": "He often forgets to do things",
+                "C": "He is a good cook",
+                "D": "He is a postman",
+                "answer": "He often forgets to do things"
+            }
+        ]
+    },
+    {
+        "passage": [
+            "Mrs. Jones was still cleaning the house when her husband came back from work. She was wearing dirty, old clothes and no stockings, her hair was not tidy, she had dust on her face, and she looked dirty and tired. Her husband looked at her and said angrily: “Is this what I come home to after a hard day's work?”",
+            "Mrs. Jones' neighbor, Mrs. Smith, was there. When she heard Mr. Jones' words, she quickly said goodbye and ran back to her house. Then she washed, brushed and combed her hair carefully, put on her best dress and her prettiest stockings, painted her face, and waited for her husband to come home.",
+            "When he arrived, he was hot and tired. He walked slowly into the house, saw his wife and stopped. Then he shouted angrily, 'And where are you going this evening?"
+        ],
+        "questions": [
+            {
+                "question": "What was Mrs. Jones doing?",
+                "A": "She was cooking the dinner",
+                "B": "She was painting the house",
+                "C": "She was cleaning the house",
+                "D": "She was washing the clothes",
+                "answer": "She was cleaning the house"
+            },
+            {
+                "question": "What was Mrs. Jones wearing?",
+                "A": "She was wearing her best dress",
+                "B": "She was wearing dirty, old clothes.",
+                "C": "She was wearing her prettiest stockings",
+                "D": "She was wearing jeans",
+                "answer": "She was wearing dirty, old clothes."
+            },
+            {
+                "question": "How did she look?",
+                "A": "She looked healthy",
+                "B": "She looked happy",
+                "C": "She looked tired",
+                "D": "She looked sad",
+                "answer": "She looked tired"
+            },
+            {
+                "question": "How did her husband feel when he said 'Is this what I came home to after a hard day's work?",
+                "A": "He felt angry",
+                "B": "Hel felt happy",
+                "C": "He felt nervous",
+                "D": "He felt sorry",
+                "answer": "He felt angry"
+            },
+            {
+                "question": "Who was Mrs. Smith?",
+                "A": "Mrs. Jones's sister",
+                "B": "Mrs. Jones's mother",
+                "C": "Mrs. Jones' neighbor",
+                "D": "Mrs. Jones's aunt",
+                "answer": "Mrs. Jones' neighbor"
+            },
+            {
+                "question": "What did she do when she heard Mr. Smith's words?",
+                "A": "She stood there to watch them talking.",
+                "B": "She said goodbye and ran back to her house",
+                "C": "She argued with Mr. Smith",
+                "D": "She did nothing...",
+                "answer": "She said goodbye and ran back to her house"
+            },
+            {
+                "question": "How did Mrs. Smith's husband feel when he came home?",
+                "A": "He felt excited.",
+                "B": "He felt hot and tired.",
+                "C": "He felt happy.",
+                "D": "He felt nervous",
+                "answer": "He felt hot and tired."
+            },
+            {
+                "question": "How many people are there in the story?",
+                "A": "two",
+                "B": "three",
+                "C": "four",
+                "D": "five",
+                "answer": "four"
+            }
+        ]
+    }
+]
