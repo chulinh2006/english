@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
 
 import { Layout, Statistic, Card, notification, Button, Table } from 'antd';
 import { SketchOutlined } from '@ant-design/icons';
@@ -54,7 +53,6 @@ const tests = [
 const { Content } = Layout;
 const { Countdown } = Statistic;
 
-const deadline = Date.now() + 2 * 60 * 60 * 1000;
 
 class App extends Component {
     constructor() {
@@ -150,9 +148,6 @@ class App extends Component {
     }
 
     start = (item) => {
-
-        console.log(item);
-
         this.setState({
             loadding: false,
             time: Date.now() + 4 * 30 * 60 * 1000,
@@ -162,7 +157,7 @@ class App extends Component {
     }
     end = () => {
         const { item, dataSource, score } = this.state;
-        const test = dataSource.filter(p => p.name === item.name);
+        const test = dataSource.find(p => p.name === item.name);
         if (score > test.highScore) test.highScore = score
         test.score = score;
 
@@ -170,17 +165,18 @@ class App extends Component {
             loadding: true,
             dataSource: Array.from(dataSource)
         })
+        localStorage.setItem('randomTest', JSON.stringify(dataSource));
     }
 
 
     render() {
-        const { score, loadding, time, dataSource, randomTest, item } = this.state;
+        const { score, loadding, time, dataSource, item } = this.state;
 
 
         if (loadding) {
             return (
                 <Layout style={{ height: '100vh', alignItems: 'center', justifyContent: 'center' }}>
-                    <div style={{ width: 1000 }}>
+                    <div style={{ width: 800 }}>
                         <Button
                             onClick={this.handleAdd}
                             type="primary"
@@ -191,7 +187,7 @@ class App extends Component {
                             Add a row
                         </Button>
                         <Table
-
+                            rowKey="name"
                             bordered
                             dataSource={dataSource}
                             columns={this.columns}
@@ -221,8 +217,9 @@ class App extends Component {
                 <Content style={{ width: 1000 }}>
                     <h1>PHẦN 1: CẤU TRÚC VÀ CÁCH DIỄN ĐẠT</h1>
                     <h3>CÂU HỎI 1-20: Chọn đáp án thích hợp (A, B, C hoặc D) để hoàn thành các câu sau.</h3>
-                    {item.part1.map(item => {
+                    {item.part1.map((item, index) => {
                         return <Part1
+                            key={"parrt1_" + index}
                             addScore={this.addScore}
                             question={item.question}
                             A={item.A}
@@ -232,13 +229,21 @@ class App extends Component {
                             answer={item.answer} />
                     })}
                     <h3>CÂU HỎI 21-50: Chọn phần gạch chân được đánh dấu theo thứ tự A, B, C và D có chứa lỗi sai.</h3>
-                    {item.part2.map(item => {
-                        return <Part2 addScore={this.addScore} {...item} />
+                    {item.part2.map((item, index) => {
+                        return <Part2
+                            key={"parrt1_" + index}
+                            addScore={this.addScore}
+                            {...item}
+                        />
                     })}
                     <h1>PHẦN 2: ĐỌC HIỂU</h1>
                     <h3>CÂU HỎI 21-50: Chọn phần gạch chân được đánh dấu theo thứ tự A, B, C và D có chứa lỗi sai.</h3>
-                    {item.part3.map(item => {
-                        return <Part3 addScore={this.addScore} {...item} />
+                    {item.part3.map((item, index) => {
+                        return <Part3
+                            key={"parrt1_" + index}
+                            addScore={this.addScore}
+                            {...item}
+                        />
                     })}
                 </Content>
             </Layout>

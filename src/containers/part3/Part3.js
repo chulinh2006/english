@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 
-import { Typography, Button, notification } from 'antd';
+import { Typography } from 'antd';
 
 import { Part1 } from '..';
 
-const { Title, Paragraph } = Typography;
+const { Paragraph } = Typography;
 
 class Part3 extends Component {
     constructor() {
@@ -23,40 +23,15 @@ class Part3 extends Component {
         window.fontSize = 18
     }
 
-    UNSAFE_componentWillReceiveProps(nextProps) {
-        if (this.props.question !== nextProps.question) {
-            this.setState({
-                text: null
-            })
-        }
-    }
-
-
-    onclick = (text) => {
-        let description = 'Bạn đã làm sai câu hỏi này, đề nghị chọn câu khác để chọn được đáp án đúng !^^'
-        if (text === this.props.answer) {
-            this.setState({
-                text
-            })
-            description = "Chúc mừng bạn đã chọn được đáp án chính xác !^^"
-        }
-
-        notification.open({
-            message: 'Thông báo',
-            description
-        });
-    }
-
     render() {
-        const { passage, A, B, C, D } = this.props
+        const { passage } = this.props
         const { questions } = this.state
-        const { text } = this.state
         return (
             <div style={{ display: 'flex', flexDirection: 'column', background: "#FFF", padding: 20, margin: 10 }}>
                 <div style={{ display: 'flex', flexDirection: 'column', background: "#FFF", padding: 20, margin: 10, position: 'sticky', top: 0, zIndex: 999, fontSize: window.fontSize }}>
-                    {passage.map(item => <Paragraph>{item}</Paragraph>)}
+                    {passage.map((item, index) => <Paragraph key={"passage_" + index}>{item}</Paragraph>)}
                 </div>
-                {questions.map(item => <Part1 addScore={this.props.addScore} {...item} />)}
+                {questions.map((item, index) => <Part1 key={index} addScore={this.props.addScore} {...item} />)}
 
             </div>
         )

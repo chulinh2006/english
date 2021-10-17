@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import { Typography, Button, notification } from 'antd';
+import { Typography, Button } from 'antd';
 
 import './styles.css'
 
@@ -11,35 +11,20 @@ class Part2 extends Component {
     constructor() {
         super();
         this.state = {
-            text: null
-        }
-    }
-
-    UNSAFE_componentWillReceiveProps(nextProps) {
-        if (this.props.question !== nextProps.question) {
-            this.setState({
-                text: null
-            })
+            text: null,
+            question: ""
         }
     }
 
 
     onclick = (text) => {
-        let description = 'Bạn đã làm sai câu hỏi này, đề nghị chọn câu khác để chọn được đáp án đúng !^^'
         if (text === this.props.answer) {
             this.props.addScore();
-
-            description = "Chúc mừng bạn đã chọn được đáp án chính xác !^^"
         }
 
         this.setState({
             text
         })
-
-        // notification.open({
-        //     message: 'Thông báo',
-        //     description
-        // });
     }
 
     render() {
